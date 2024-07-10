@@ -1,0 +1,10 @@
+dataset/
+├── training_set/
+│   ├── cats/
+│   └── dogs/
+├── test_set/
+│   ├── cats/
+│   └── dogs/
+└── single_prediction/
+    ├── cat_or_dog_1.jpg
+    └── cat_or_dog_2.jpg
